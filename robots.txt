@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-vvgo3k.didirdoot.in/sitemap.xml
